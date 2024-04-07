@@ -12,7 +12,7 @@ This is a E-Commerce Website. This project is based on HTML, CSS, JS.
 
 ## To Contribute
 
-- Open a [new issue](https://github.com/abhijit49/E-Commerce-Website-CARA-/issues/new)
+- Open a [new issue](https://github.com/manishcdac13))
 - Fork this repo
 - Create a new branch 
 - Write code and push your code in your forked repo branch.
